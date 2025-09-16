@@ -49,13 +49,13 @@ The dataset is visualized in **Power BI** to generate meaningful reports and das
 ## 📸 Dashboard Previews  
 
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](./bank-loan-summary.jpg)  
+![Summary Dashboard](./summary.jpg)  
 
 ### 🔹 Overview Dashboard  
-![Overview Dashboard](./bank-loan-overview.jpg)  
+![Overview Dashboard](./overview.jpg)  
 
 ### 🔹 Detailed Grid View  
-![Detailed View](./bank-loan-details.jpg)  
+![Detailed View](./detailed.jpg)  
 
 > 💡 Rename the image files in the repo to match these names or update the paths above.
 
